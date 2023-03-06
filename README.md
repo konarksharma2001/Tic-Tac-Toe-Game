@@ -17,6 +17,9 @@ CSS
 JavaScript
 ## Screenshots
 
+![Screenshot (127)](https://user-images.githubusercontent.com/87274294/223094251-3820cfd2-ac7d-40d5-aa18-a401c3d73d15.png)
+![Screenshot (128)](https://user-images.githubusercontent.com/87274294/223094278-70a34729-a5f8-4305-9486-af315fbe3c3b.png)
+
 
 ## Link to the Game
 You can play the game directly by clicking on this link: [Tic Tac Toe Game](https://tic-tac-toe-game-v23.netlify.app/) 
