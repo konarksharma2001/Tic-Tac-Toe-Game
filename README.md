@@ -19,4 +19,4 @@ JavaScript
 
 
 ## Link to the Game
-You can play the game directly by clicking on this link: [Tic Tac Toe Game] (https://tic-tac-toe-game-v23.netlify.app/) 
+You can play the game directly by clicking on this link: [Tic Tac Toe Game](https://tic-tac-toe-game-v23.netlify.app/) 
